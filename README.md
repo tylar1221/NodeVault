@@ -15,6 +15,8 @@ NodeVault is a decentralized image-sharing platform that uses IPFS and the Pinat
 - **Persistent Access**: Images remain accessible through IPFS gateway links.
 
 ---
+![deepseek_mermaid_20250620_267f23](https://github.com/user-attachments/assets/4a393687-5a0e-47bc-bd34-07e140117dd3)
+
 
 ## **Technologies Used**
 - **Frontend**: Streamlit
